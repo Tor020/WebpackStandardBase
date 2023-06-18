@@ -31,10 +31,10 @@ yarn build
 - Style Linting via [stylelint](https://stylelint.io/)
 
 When you run `yarn build` we use the [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) to move the css to a separate file. The css file gets included in the head of the `index.html`.
-r
+
 
 
 
 ```
-1199px, 991px, 767px, 480px and under. Our usual grid is 1230px or so, sometimes smaller.
+1199px 991px 767px 480px 
 ```
